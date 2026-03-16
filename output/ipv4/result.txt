@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-03-16 18:49:16,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-03-17 06:26:35,https://60.191.56.186:8888/hls/15/index.m3u8
 
 📺央视频道,#genre#
+CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
@@ -54,7 +55,6 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 
 ☘️四川频道,#genre#
 叙永综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
-荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 
 ☘️陕西频道,#genre#
 
@@ -71,7 +71,6 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
-白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 
 ☘️新疆频道,#genre#
 
