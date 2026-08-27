@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-27 10:48:17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
+2026-08-28 04:07:56,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
@@ -191,8 +191,8 @@ CETV1,http://198.204.228.26/live/cetv1hd.m3u8
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 世界地理,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📡卫视频道,#genre#
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8?
@@ -550,6 +550,7 @@ CETV1,http://198.204.228.26/live/cetv1hd.m3u8
 深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw208659612_-112921820/ott.mobaibox.com/PLTV/3/224/3221227217/index.m3u8?icpid=3&RTS=1674380324&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 
 ☘️浙江频道,#genre#
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
 
 ☘️北京频道,#genre#
@@ -571,28 +572,26 @@ CETV1,http://198.204.228.26/live/cetv1hd.m3u8
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
+无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
-无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
-无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
-无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361
+无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028
 无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
-无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
+无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
 无锡经济,https://stream.thmz.com/wxtv5/playlist.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
-无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
+无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
-无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
+无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
-无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8
 
 ☘️辽宁频道,#genre#
@@ -672,16 +671,13 @@ CETV1,http://198.204.228.26/live/cetv1hd.m3u8
 衡水公共,http://ls.qingting.fm/live/2810.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
-河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 河北农民,http://ls.qingting.fm/live/1650.m3u8
+河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
-
-☘️贵州频道,#genre#
-安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8
 
 ☘️新疆频道,#genre#
 新疆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
@@ -718,6 +714,8 @@ CETV1,http://198.204.228.26/live/cetv1hd.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 
 🌊港·澳·台,#genre#
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 
 🎬电影频道,#genre#
